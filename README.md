@@ -1,2 +1,6 @@
-# heart-disease-prediction-website-
-Html Css Javascript - Python flask mysqldb - jupyter notebook - Machine learning - Randomforest
+# heart-disease-prediction-website
+website is build using technology like 
+Frontend = Html Css Javascript 
+Backend = Python flask mysqldb 
+Research = jupyter notebook - Machine learning 
+Algorithm = Randomforest
